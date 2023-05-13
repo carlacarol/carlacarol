@@ -1,6 +1,6 @@
 # Olá 🙏, meu nome é Carla Carolina
 
-Estou cursando Sistemas de Informação e pretendo ingressar na área de programação sendo Dev Front-End
+Estou cursando Sistemas de Informação e pretendo ingressar na área de programação.
 
 
 <p align="center">
