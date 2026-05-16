@@ -1,6 +1,6 @@
 # Olá 🙏, meu nome é Carla Carolina
 
-Estou cursando Sistemas de Informação e pretendo ingressar na área de programação.
+Explorando o mundo da cibersegurança e tecnologia, transformando conhecimento em projetos práticos.
 
 
 <p align="center">
